@@ -19,3 +19,4 @@ INSERT INTO users (name, age) VALUES
 ("Squid", 270),
 ("Albus", 470),
 ("Victoria", 1700);
+
