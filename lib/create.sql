@@ -1,2 +1,3 @@
 CREATE TABLE projects (
+  
 )
