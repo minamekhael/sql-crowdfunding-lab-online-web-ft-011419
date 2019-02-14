@@ -1,1 +1,1 @@
-INSERT INTO USERS (name, age)
+INSERT INTO USERS (name, age) VALUES
